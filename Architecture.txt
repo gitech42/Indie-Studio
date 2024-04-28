@@ -1,0 +1,33 @@
+Class Window
+
+Class Game
+
+Class Menu
+
+Class Audio
+
+Class Sprite
+
+Class View
+
+
+TO DO:
+
+Menu
+Map
+Character
+Animation
+Object
+Win/Lose
+
+
+A se repartir:
+
+Gestion de la Map en 2D (read fichier et stocker) Class Map ?
+Animation et personnages (couche graphique sur le fichier)
+Gestion des inputs (Class input?)
+Object
+IA (Class IA qui herite de character ?)
+Interface (moveable, damagable, destroyable) ?
+
+Generation procedural de map (faire des partie de map qu'on peut assembler de manière aléatoire pour avoir une map complète)
